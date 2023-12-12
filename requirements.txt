@@ -1,0 +1,10 @@
+txtai[all]
+python-dotenv
+PyPDF2
+langchain[all]
+streamlit
+sentence-transformers
+torch
+transformers
+sentencepiece
+accelerate
