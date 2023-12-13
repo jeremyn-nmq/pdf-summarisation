@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a012d9-2ce7-41a3-aa22-f6ac89076f4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/text-summarization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/generation_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/spiece.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaMini-Flan-T5-248M/training_args.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +35,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/jeremyn/jeremyn-coding/MITIU/text-summarization",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,8 +54,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702409486860</updated>
-      <workItem from="1702409488639" duration="336000" />
+      <workItem from="1702409488639" duration="1567000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702409898096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702409898096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
